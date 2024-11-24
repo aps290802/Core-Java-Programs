@@ -1,0 +1,51 @@
+package Abstract_Class_and_Method;
+
+abstract class A
+{
+	int i,j,k;
+	void fact(int x)
+	{
+		int ans=1;
+		for(i=x;i>=1;i--)
+		{
+			ans=ans*i;
+		}
+		System.out.println("Factorial :- " +ans);
+	}
+	void sum()
+	{
+		int ans2=0;
+		for(i=1;i<=y;i++)
+		{
+			ans2=ans2+i;
+		}
+		System.out.println("Sum of postive numbers = " +ans2);
+	}
+	void show()
+	{
+		System.out.println("Hello");
+	}
+}
+
+class B extends A
+{
+	void sum(int x,int y)
+	{
+		System.out.println("Sum of two numbers = "+(x+y));
+	}
+}
+
+
+public class Demo2 {
+
+	public static void main(String[] args) 
+	{
+		int m=5,n=10;
+		B b1 =new B();
+		b1.fact(m);
+		b1.sum(n);
+		b1.show();
+		b1.sum(m, n);
+	}
+
+}

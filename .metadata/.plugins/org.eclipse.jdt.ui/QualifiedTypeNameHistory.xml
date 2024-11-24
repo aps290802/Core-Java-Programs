@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javatutorials.A"/>
+    <fullyQualifiedTypeName name="javatutorials.AAA"/>
+    <fullyQualifiedTypeName name="java.lang.MatchException"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Polymorphism.A"/>
+    <fullyQualifiedTypeName name="java.lang.classfile.Superclass"/>
+    <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.ls.LSOutput"/>
+    <fullyQualifiedTypeName name="Abstract_Class_and_Method.B"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Abstract_Class_and_Method.First"/>
+    <fullyQualifiedTypeName name="Abstract_Class_and_Method.Fourth"/>
+    <fullyQualifiedTypeName name="Interface.Test"/>
+    <fullyQualifiedTypeName name="Interface.Second"/>
+    <fullyQualifiedTypeName name="Interface.Demo"/>
+</qualifiedTypeNameHistroy>
